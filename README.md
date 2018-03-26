@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+# About me
 
-You can use the [editor on GitHub](https://github.com/Bharath1999/Bharath1999.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm **Bharath M** currently pursuing my **B.Tech** in **Computer Science and Technology** in
+*Karunya Institute of Technology and Sciences*.
+I'm a technology enthusiast whose hunger for knowledge and learning never resides.
+I'm interested in financial management and I'm a great leader with high leadership and cognitive skills.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Resume
 
-### Markdown
+## EDUCATION
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**B.Tech(Hons.),Computer Science and Technology (2016 - 2020)**
 
-```markdown
-Syntax highlighted code block
+Karunya Institute of Technology and sciences.
 
-# Header 1
-## Header 2
-### Header 3
+CGPA: 7.65/10
 
-- Bulleted
-- List
+**XII(Senior Secondary),Science**
 
-1. Numbered
-2. List
+Year of Completion:2016
 
-**Bold** and _Italic_ and `Code` text
+STATE Board(Srividhya mandir matric school)
 
-[Link](url) and ![Image](src)
-```
+Percentage: 92%
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**X(Secondary)**
 
-### Jekyll Themes
+Year of Completion:2014
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bharath1999/Bharath1999.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+STATE Board(Srividhya mandir matric school)
 
-### Support or Contact
+Percentage: 99%
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## TECHNICAL SKILLS
+
+**C++ Programming**
+
+**Android App Development**
+
+**Python Programming**
+
+## INTERESTS
+
+**Financial Management**
+
+**Civil service**
+
+## HOBBIES
+
+**Web Surfing**
+
+**Reading books**
+
+# Contact me
+
+**Mail Address**  : *bharathm16@karunya.edu.in*
+
+
